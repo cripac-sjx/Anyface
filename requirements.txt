@@ -1,0 +1,6 @@
+tensorboard
+ftfy 
+regex 
+tqdm
+lpips
+dlib-bin
