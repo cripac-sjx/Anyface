@@ -18,7 +18,7 @@ Download the CelebAText-HQ and Multi-modal CelebA-HQ from [SEA-T2F](https://gith
 Download the [FFText-HQ]() Dataset.
 
 # Pretained Models
-Down the [Memory model] and [pretrained model]() and put them into "./moels"
+Down the [Memory model]() and [pretrained model]() and put them into "./moels"
 
 # Inference
 
