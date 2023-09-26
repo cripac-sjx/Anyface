@@ -15,10 +15,10 @@ pip install -r requirements.txt
 # Datasets
 
 Download the CelebAText-HQ and Multi-modal CelebA-HQ from [SEA-T2F](https://github.com/cripac-sjx/SEA-T2F) and [TediGAN](https://github.com/IIGROUP/TediGAN).
-Download the [FFText-HQ]() Dataset.
+Download the [FFText-HQ](https://drive.google.com/file/d/1ZhkrUXFkVVPHAHR0HhcYhxPuBeAENO86/view?usp=sharing) Dataset.
 
 # Pretained Models
-Down the [Memory model]() and [pretrained model]() and put them into "./moels"
+Down the [Memory model](https://drive.google.com/file/d/1db6VmuMVzW50uHdGwMrv4HK9c3FbaoQ4/view?usp=sharing) and [pretrained model](https://drive.google.com/file/d/1GbMavKgNVqXgWcmqxp0R6n8nmOmLfooS/view?usp=sharing) and put them into "./moels"
 
 # Inference
 
